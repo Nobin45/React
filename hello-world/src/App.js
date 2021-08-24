@@ -12,13 +12,13 @@ function App() {
     <div className="rectangle1">
     <table >
       <tr>
-       <th> <div>ATG.WORLD</div></th>
+       <th> <div className="u1"><img height="100%" width="100%" src="./whole.png" alt="pc"/> </div></th>
        <th> <div className="rectangle2"><input type="search" id="query" name="q" placeholder="Search for your favorite groups in ATG"></input> </div>  </th>
        <th> <div className="rectangle3">Create account.
        <input type="button" value="It’s free!" onClick={togglePopup}/>
     </div></th>
       </tr>
-      <tr> <div className="t5">  <img height="100%" width="100%" src="./photo.jpg" alt="pic"/> 
+      <tr> <div className="t5">  <img height="100%" width="100%" src="./Rectangle 2.jpg" alt="pic"/> 
       <div className="t6">Computer Engineering </div> 
       <div className="t7"> 142,765 Computer Engineers follow this</div>
       </div> </tr>
@@ -32,7 +32,7 @@ function App() {
         <th> <div className="t14"> Join Group</div></th>
       </tr>
       <tr> 
-        <th>   <div className="rectangle5"><img height="100%" width="100%" src="./d.jpg" alt="pho"/></div></th>
+        <th>   <div className="rectangle5"><img height="100%" width="100%" src="./Rectangle 5.jpg" alt="pho"/></div></th>
       </tr>
     </table>
 
